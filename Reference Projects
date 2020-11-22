@@ -2,3 +2,31 @@ Helpful refreernce Projects
 Cool use of watches and similar sensor stuff  http://mrgibbs.io/
 10 inch touch screen display off Amazon
 Testing the wind speed
+Possible feature list from Mr Gibbs
+    Speed
+    VMG - Velocity made good - Speed calculated as if the boat were traveing straight from one mark to the next
+    VMC - Velocity made good on course - Speed calculated as rate of closure from the boat to the next mark
+    COG - Course over ground - Actual direction the boat is moving (not pointing)
+    Heading (Magnetic) - Direction the boat is pointed
+    Heading (True) - Direction the boat is pointed, corrected for declination
+    Heel
+    Top Speed
+    Countdown
+    Distance to Mark
+    Pitch
+    VMG % - The % of boatspeed that is along the course, eg 10 knots 45 degrees of course = 5 knots
+    VMC % - The % of boatspeed that is toward the mark
+    Current Tack Delta - The system remembers the heading at the start of the current tack. Current tack delta is the current heading subtracted from the heading at the start of the tack, so it will indicate if you have been lifted or headed since tacking.
+    Course Relative - The current heading, subtracted from the angle of the course (aka how many degrees off the course are you)
+
+If the wind sensor is used, the following values are also available
+
+    Apparent Wind Angle
+    Apparent Wind Speed
+    True Wind Angle
+    True Wind Direction
+    True Wind Speed
+    Mast Heel/Pitch
+    Mast Bend
+    Target Speed for Current Wind
+    Current Speed as % of Targe Speed
