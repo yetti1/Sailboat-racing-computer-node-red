@@ -1,0 +1,7 @@
+These are the NPM Packages you will need to put in the .node-red directory
+Cd .node-red  in a terminal screen
+World map  https://flows.nodered.org/node/node-red-contrib-web-worldmap
+UI Dashboard  https://flows.nodered.org/node/node-red-dashboard
+msg speed  https://flows.nodered.org/node/node-red-contrib-msg-speed
+Raspberry GPO Pins https://flows.nodered.org/node/node-red-node-pi-gpio
+
