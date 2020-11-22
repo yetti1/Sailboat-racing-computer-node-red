@@ -1,0 +1,4 @@
+GPS Sensor
+Ubloc 7 USB Sensor
+Need to configure USB port in Node-red to read
+Then just read the GPS Sentences to get speed and such 
