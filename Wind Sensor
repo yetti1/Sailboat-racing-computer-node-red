@@ -1,0 +1,7 @@
+Peet Bros wind sensor
+https://www.peetbros.com/shop/item.aspx?itemid=137
+Middle two wires on RJ11 are annometer
+Ground and GPIO 5  on Raspberry PI
+Outer wires are the wind sensor
+For how to hook to the Raspberry PI 
+https://projects.raspberrypi.org/en/projects/build-your-own-weather-station/7
